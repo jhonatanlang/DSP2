@@ -1,3 +1,3 @@
 # Activity 1 Report
 
-made in Latex on Overleaf.com
+Made in latex editor overleaf.com
